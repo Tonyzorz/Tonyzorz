@@ -1,6 +1,8 @@
 ### Hi there 👋
  
-  [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats)
+ <!-- [![Taewon Yoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyzorz)](https://github.com/tonyzorz/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzorz&layout=compact)](https://github.com/tonyzorz/github-readme-stats)
+ [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats)
 
 <!--
 **Tonyzorz/Tonyzorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
