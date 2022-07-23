@@ -12,7 +12,7 @@
  
  📗 [자세한 이력사항은 노션에 있습니다!](https://www.notion.so/88e14af5eca642fba4251f90d3ec631e)  
  
- 📧 [tonyzorz@naver.com](mailto:tonyzorz@naver.com)
+ 
  
  ---
  #### 🌟 기술스택 🌟
