@@ -20,7 +20,7 @@
  - **DB** : Mysql/Maria, hazelcast, redis  
  - **Framework** : Spring  
  - **OS** : AWS, linux  
- - **Version Control** : Github, bitbucket, gitlab  
+ - **DevOps** : Github, bitbucket, gitlab  
  - **CI/CD** : Jenkins, docker, bamboo  
  - **Communication** : Slack  
  
