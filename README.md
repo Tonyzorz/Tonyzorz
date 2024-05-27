@@ -17,9 +17,9 @@
  ---
  #### 🌟 기술스택 🌟
  - **언어** : Java  
- - **DB** : Mysql/Maria, hazelcast, redis  
+ - **DB** : Mysql/Maria, redis  
  - **Framework** : Spring  
- - **OS** : AWS, linux  
+ - **OS** : Linux, aws
  - **DevOps** : Github, bitbucket, gitlab  
  - **CI/CD** : Jenkins, docker, bamboo  
  - **Communication** : Slack  
@@ -30,7 +30,7 @@
  - 현재 알고리즘와 스프링 강좌 공부하고 있습니다!
  - 🏋️ 헬스를 좋아합니다
  
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/) 
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/)  -->
  <!-- [![Taewon Yoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyzorz)](https://github.com/tonyzorz/github-readme-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzorz&layout=compact)](https://github.com/tonyzorz/github-readme-stats)  -->
  [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats)
