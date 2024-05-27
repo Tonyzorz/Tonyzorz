@@ -1,7 +1,7 @@
 ### 안녕하세요 백엔드 개발자 윤태원입니다 👋
  ---
  
- #### 🌟 자기소개 🌟 
+ #### 🌟🌟🌟 자기소개 🌟🌟🌟
  **🏢 경력** 
  - 비즈테크아이 [백엔드 + 서버] (2023.09 ~ 재직중)
  - 쿠도커뮤니케이션 [백엔드 + 서버] (2020.01 ~ 2023.09)
@@ -15,18 +15,34 @@
  
  
  ---
- #### 🌟 기술스택 🌟
- - **언어** : Java  
- - **DB** : Mysql/Maria, redis  
- - **Framework** : Spring  
- - **OS** : Linux, aws
- - **DevOps** : Github, bitbucket, gitlab  
- - **CI/CD** : Jenkins, docker, bamboo  
- - **Communication** : Slack  
+ #### 🌟🌟🌟 기술스택 🌟🌟🌟
+### Languages 
+| Java | JS |
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
+### Database 
+| Mysql | Oracle | MongoDB | Redis | 
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql"  alt="Mysql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="55" height="55"/> |
+
+### Fameworks & Environments 
+| Spring | AWS | 
+|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="amazonwebservices"  alt="amazonwebservices" width="55" height="55"/> |
+
+### OS & DevOps & CI/CD 
+| Linux | Git | Bitbucket | Gitlab | Jenkins | Docker |
+|----------|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket"  alt="bitbucket" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab"  alt="gitlab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins"  alt="jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="55" height="55"/> |
+
+### IDE & Others
+| IntelliJ | Sourcetree | Postman | Swagger | JUnit |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij"  alt="intellij" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="sourcetree"  alt="sourcetree" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger"  alt="swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="junit"  alt="junit" width="55" height="55"/> |
  
  --- 
- #### 🌟 관심분야 🌟
+ #### 🌟🌟🌟 관심분야 🌟🌟🌟
  - 현재 알고리즘와 스프링 강좌 공부하고 있습니다!
  - 🏋️ 헬스를 좋아합니다
  
