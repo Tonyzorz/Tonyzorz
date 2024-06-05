@@ -11,7 +11,7 @@
  - 안산사범대학교 [중어중문학과] (2012.09 ~ 2016.07)
  - Bayside High School [미국 유학] (2004 ~ 2011)
  
- 📗 [자세한 이력사항은 노션에 있습니다!](https://zany-wolverine-cf3.notion.site/88e14af5eca642fba4251f90d3ec631e)  
+ <!-- 📗 [자세한 이력사항은 노션에 있습니다!](https://zany-wolverine-cf3.notion.site/88e14af5eca642fba4251f90d3ec631e)  -->
  
  
  ---
