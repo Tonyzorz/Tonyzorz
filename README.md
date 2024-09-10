@@ -6,12 +6,22 @@
  **🏢 경력** (4년+)
  - 비즈테크아이 [백엔드 + 서버] (2023.09 ~ 재직중)
  - 쿠도커뮤니케이션 [백엔드 + 서버] (2020.01 ~ 2023.09)
- 
+
  **📚 교육** 
  - 비트캠프 교육기관 (2019.02 ~ 2019.08)
  - 안산사범대학교 [중어중문학과] (2012.09 ~ 2016.07)
  - Bayside High School [미국 유학] (2004 ~ 2011)
- 
+
+ **📝 자격증**
+ - SQLD
+ - 정보처리기사
+
+ **🕹️ 관심 분야**
+ - AWS SAA 공부하고 있습니다 ! (2024년 11월 목표)
+ - 일상 기록하는걸 좋아합니다 ! ([📕 공부 Dev Blog](https://tonyzorz.tistory.com) + [🍔 맛집 블로그](https://blog.naver.com/tonyzorz))
+ - 🏋️ 헬스를 좋아합니다
+
+
  <!-- 📗 [자세한 이력사항은 노션에 있습니다!](https://zany-wolverine-cf3.notion.site/88e14af5eca642fba4251f90d3ec631e)  -->
  
  
@@ -43,9 +53,6 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij"  alt="intellij" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="sourcetree"  alt="sourcetree" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger"  alt="swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="junit"  alt="junit" width="55" height="55"/> |
  
  --- 
- #### 🌟🌟🌟 관심분야 🌟🌟🌟
- - 현재 알고리즘와 스프링 강좌 공부하고 있습니다!
- - 🏋️ 헬스를 좋아합니다
  
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/)  -->
  <!-- [![Taewon Yoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyzorz)](https://github.com/tonyzorz/github-readme-stats) 
