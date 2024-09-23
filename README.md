@@ -19,7 +19,7 @@
 
  **🕹️ 관심 분야**
  - AWS SAA 공부하고 있습니다 ! (2024년 11월 목표)
- - 일상 기록하는걸 좋아합니다 ! ([📕 공부 Dev Blog](https://tonyzorz.tistory.com) + [🍔 맛집 블로그](https://blog.naver.com/tonyeatsalot))
+ - 일상 기록하는걸 좋아합니다 ! ([📕 공부 Dev Blog](https://tonyzorz.tistory.com))
  - 🏋️ 헬스를 좋아합니다
 
 
