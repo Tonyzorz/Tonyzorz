@@ -3,8 +3,8 @@
  
  #### 🌟🌟🌟 자기소개 🌟🌟🌟
  **🏢 경력** (4년+)
- - 비즈테크아이 [백엔드 + 서버] (2023.09 ~ 재직중)
- - 쿠도커뮤니케이션 [백엔드 + 서버] (2020.01 ~ 2023.09)
+ - 비즈테크아이 [백엔드 + 인프라] (2023.09 ~ 재직중)
+ - 쿠도커뮤니케이션 [백엔드 + 인프라] (2020.01 ~ 2023.09)
 
  **📚 교육** 
  - 비트캠프 교육기관 (2019.02 ~ 2019.08)
@@ -56,10 +56,10 @@
  
  --- 
  
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/)  -->
  <!-- [![Taewon Yoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyzorz)](https://github.com/tonyzorz/github-readme-stats) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzorz&layout=compact)](https://github.com/tonyzorz/github-readme-stats)  -->
- [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats)
+<!--  [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats) -->
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/) 
 
 <!--
 **Tonyzorz/Tonyzorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
