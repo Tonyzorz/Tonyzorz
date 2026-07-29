@@ -1,77 +1,93 @@
-### 안녕하세요 백엔드 개발자 윤태원입니다 👋
- ---
- 
- #### 🌟🌟🌟 자기소개 🌟🌟🌟
- **🏢 경력** (6년+)
- - 비즈테크아이 [백엔드 + 인프라] (2023.09 ~ 재직중)
- - 쿠도커뮤니케이션 [백엔드 + 인프라] (2020.01 ~ 2023.09)
+<div align="center">
 
- **📚 교육** 
- - 비트캠프 교육기관 (2019.02 ~ 2019.08)
- - 안산사범대학교 [중어중문학과] (2012.09 ~ 2016.07)
- - Bayside High School [미국 유학] (2004 ~ 2011)
+# Taewon Yoon (Tony)
 
- **📝 자격증**
- - AWS SAA (2025.02 취득) (3년 유효) 
- - SQLD (2024.09 취득)
- - TOEIC 965 (2023.06 취득) (2년 유효)
- - 정보처리기사
+### Backend Engineer · Independent Maker
 
- **🕹️ 관심 분야**
- - 잡다한 토이 프로젝트 하는걸 좋아합니다 ! 
- - 일상 기록하는걸 좋아합니다 ! 
- - 🏋️ 헬스를 좋아합니다
- - 맛집 방문하는걸 좋아합니다 (맛집블로그도운영중)
+I build reliable backend systems, mobile games, and privacy-first web experiences.
 
+[**Tony Works**](https://tonyworks.co.kr/) · [**GitHub**](https://github.com/Tonyzorz) · [**Email**](mailto:tonyzorz@naver.com)
 
- <!-- 📗 [자세한 이력사항은 노션에 있습니다!](https://zany-wolverine-cf3.notion.site/88e14af5eca642fba4251f90d3ec631e)  -->
- 
- 
- ---
- #### 🌟🌟🌟 기술스택 🌟🌟🌟
-### Languages 
-| Java | JS |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+**English** | [한국어](./README.ko.md)
 
-### Database 
-| Mysql | Oracle | MongoDB | Redis | 
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql"  alt="Mysql" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="55" height="55"/> |
+</div>
 
-### Fameworks & Environments 
-| Spring | AWS | 
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="amazonwebservices"  alt="amazonwebservices" width="55" height="55"/> |
+---
 
-### OS & DevOps & CI/CD 
-| Linux | Git | Bitbucket | Gitlab | Jenkins | Docker |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="bitbucket"  alt="bitbucket" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab"  alt="gitlab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="jenkins"  alt="jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="55" height="55"/> |
+## What I am building
 
-### IDE & Others
-| IntelliJ | Sourcetree | Postman | Swagger | JUnit |
-|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij"  alt="intellij" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="sourcetree"  alt="sourcetree" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman"  alt="postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger"  alt="swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="junit"  alt="junit" width="55" height="55"/> |
- 
- --- 
- 
- <!-- [![Taewon Yoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyzorz)](https://github.com/tonyzorz/github-readme-stats) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzorz&layout=compact)](https://github.com/tonyzorz/github-readme-stats)  -->
-<!--  [![Taewon Yoon's github stats](https://github-readme-stats.vercel.app/api?username=Tonyzorz)](https://github.com/Tonyzorz/github-readme-stats) -->
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/) 
+### Tony Works
 
-<!--
-**Tonyzorz/Tonyzorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> An independent studio and the home of my games and web projects.
 
-Here are some ideas to get you started:
+Tony Works brings together the products I design, develop, publish, and maintain. It also hosts the official, data-driven companion wiki for Infinite Loot-Loop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit tonyworks.co.kr →](https://tonyworks.co.kr/) · [View the source →](https://github.com/Tonyzorz/tonyworks-site)
+
+<table>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html">
+        <img src="https://tonyworks.co.kr/apps/infinite-loot-loop/assets/img/app_icon.png" width="160" alt="Infinite Loot-Loop app icon">
+      </a>
+    </td>
+    <td>
+      <h3>Infinite Loot-Loop</h3>
+      <p><strong>Mobile roguelike RPG · Unity · C# · In development</strong></p>
+      <p>A mobile RPG built around connected-world exploration, turn-based battles, resource-aware runs, persistent loot, and permanent progression. The game is paired with an official companion wiki whose maps, monsters, bosses, items, and character data are exported from the Unity project.</p>
+      <p>
+        <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html"><strong>Explore the game & wiki →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="220" align="center">
+      <a href="https://showmethesaju.com/en/">
+        <img src="https://showmethesaju.com/og/og-default.png" width="200" alt="Show Me the Saju">
+      </a>
+    </td>
+    <td>
+      <h3>Show Me the Saju · 쇼미더사주</h3>
+      <p><strong>Privacy-first web app · Astro · TypeScript · Live</strong></p>
+      <p>A multilingual Korean Four Pillars experience that turns birth information into an interactive Saju chart, compatibility view, and learning journey. Calculations run locally in the browser, birth data is not sent to an application server, and the experience is available in 11 languages.</p>
+      <p>
+        <a href="https://showmethesaju.com/en/"><strong>Try the live app →</strong></a>
+        ·
+        <a href="https://github.com/Tonyzorz/showmethesaju">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## My toolbox
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring, REST APIs |
+| Games | Unity, C# |
+| Web | TypeScript, Astro, JavaScript, HTML, CSS |
+| Data | MySQL, Oracle, MongoDB, Redis |
+| Platform | AWS, Docker, Linux, Git, Jenkins, GitLab CI/CD |
+
+## Background
+
+I have **6+ years of backend and infrastructure experience**, and I now apply that foundation to building complete products—from architecture and implementation to deployment, content, analytics, and ongoing operations.
+
+- **Biztech-I** — Backend & Infrastructure Engineer (Sep 2023–Present)
+- **Kudo Communications** — Backend & Infrastructure Engineer (Jan 2020–Sep 2023)
+- Certifications: **AWS Solutions Architect – Associate**, **SQLD**, **Engineer Information Processing**
+- Languages: Korean · English · Chinese
+
+## A little more about me
+
+I enjoy turning ideas into usable products, documenting what I learn, and improving systems through steady iteration. Away from the keyboard, I like exercise, good food, and keeping a record of everyday life.
+
+<div align="center">
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tonyzorz)](https://solved.ac/tonyzorz/)
+
+### Let us build something useful.
+
+[tonyzorz@naver.com](mailto:tonyzorz@naver.com)
+
+</div>
