@@ -27,16 +27,18 @@ Tony Works는 제가 직접 기획하고 개발하여 출시·운영하는 제�
 <table>
   <tr>
     <td width="220" align="center">
-      <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html">
+      <a href="https://apps.apple.com/app/infinite-loot-loop/id6790783620">
         <img src="https://tonyworks.co.kr/apps/infinite-loot-loop/assets/img/app_icon.png" width="160" alt="Infinite Loot-Loop 앱 아이콘">
       </a>
     </td>
     <td>
       <h3>Infinite Loot-Loop</h3>
-      <p><strong>모바일 로그라이크 RPG · Unity · C# · 개발 중</strong></p>
+      <p><strong>모바일 로그라이크 RPG · Unity · C# · iOS 출시</strong></p>
       <p>연결된 월드의 탐험, 턴제 전투, 자원 관리가 필요한 반복 플레이, 영구적으로 쌓이는 전리품과 성장을 중심으로 만든 모바일 RPG입니다. 공식 공략 위키의 맵, 몬스터, 보스, 아이템, 캐릭터 정보는 Unity 프로젝트에서 직접 추출한 데이터를 기반으로 합니다.</p>
       <p>
-        <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html"><strong>게임과 위키 둘러보기 →</strong></a>
+        <a href="https://apps.apple.com/app/infinite-loot-loop/id6790783620"><strong>App Store에서 다운로드 →</strong></a>
+        ·
+        <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html">공식 위키</a>
       </p>
     </td>
   </tr>
@@ -48,7 +50,7 @@ Tony Works는 제가 직접 기획하고 개발하여 출시·운영하는 제�
     </td>
     <td>
       <h3>쇼미더사주 · Show Me the Saju</h3>
-      <p><strong>개인정보 보호 중심 웹 앱 · Astro · TypeScript · 서비스 중</strong></p>
+      <p><strong>개인정보 보호 중심 다국어 웹 앱 · 서비스 중</strong></p>
       <p>생년월일시를 인터랙티브 사주 명식과 궁합, 학습 콘텐츠로 풀어낸 다국어 사주 경험입니다. 계산은 브라우저 안에서 처리되어 출생 정보가 애플리케이션 서버로 전송되지 않으며, 11개 언어를 지원합니다.</p>
       <p>
         <a href="https://showmethesaju.com/ko/"><strong>서비스 사용해 보기 →</strong></a>
@@ -65,7 +67,8 @@ Tony Works는 제가 직접 기획하고 개발하여 출시·운영하는 제�
 | --- | --- |
 | 백엔드 | Java, Spring, REST API |
 | 게임 | Unity, C# |
-| 웹 | TypeScript, Astro, JavaScript, HTML, CSS |
+| 웹 | JavaScript, HTML, CSS |
+| AI | Claude, Codex |
 | 데이터 | MySQL, Oracle, MongoDB, Redis |
 | 플랫폼 | AWS, Docker, Linux, Git, Jenkins, GitLab CI/CD |
 
@@ -75,8 +78,8 @@ Tony Works는 제가 직접 기획하고 개발하여 출시·운영하는 제�
 
 - **비즈테크아이** — 백엔드 & 인프라 엔지니어 (2023.09–현재)
 - **쿠도커뮤니케이션** — 백엔드 & 인프라 엔지니어 (2020.01–2023.09)
-- 자격: **AWS Solutions Architect – Associate**, **SQLD**, **정보처리기사**
-- 언어: 한국어 · 영어 · 중국어
+- 자격: **AWS Solutions Architect – Associate**, **SQLD**, **정보처리기사**, **TOEIC 965**
+- 언어: 한국어 (**유창**) · 영어 (**유창**) · 중국어 (**중급**)
 
 ## 개발 밖에서는
 

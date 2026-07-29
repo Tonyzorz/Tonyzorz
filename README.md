@@ -27,16 +27,18 @@ Tony Works brings together the products I design, develop, publish, and maintain
 <table>
   <tr>
     <td width="220" align="center">
-      <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html">
+      <a href="https://apps.apple.com/app/infinite-loot-loop/id6790783620">
         <img src="https://tonyworks.co.kr/apps/infinite-loot-loop/assets/img/app_icon.png" width="160" alt="Infinite Loot-Loop app icon">
       </a>
     </td>
     <td>
       <h3>Infinite Loot-Loop</h3>
-      <p><strong>Mobile roguelike RPG · Unity · C# · In development</strong></p>
+      <p><strong>Mobile roguelike RPG · Unity · C# · Available on iOS</strong></p>
       <p>A mobile RPG built around connected-world exploration, turn-based battles, resource-aware runs, persistent loot, and permanent progression. The game is paired with an official companion wiki whose maps, monsters, bosses, items, and character data are exported from the Unity project.</p>
       <p>
-        <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html"><strong>Explore the game & wiki →</strong></a>
+        <a href="https://apps.apple.com/app/infinite-loot-loop/id6790783620"><strong>Download on the App Store →</strong></a>
+        ·
+        <a href="https://tonyworks.co.kr/apps/infinite-loot-loop/index.html">Official wiki</a>
       </p>
     </td>
   </tr>
@@ -48,7 +50,7 @@ Tony Works brings together the products I design, develop, publish, and maintain
     </td>
     <td>
       <h3>Show Me the Saju · 쇼미더사주</h3>
-      <p><strong>Privacy-first web app · Astro · TypeScript · Live</strong></p>
+      <p><strong>Privacy-first multilingual web app · Live</strong></p>
       <p>A multilingual Korean Four Pillars experience that turns birth information into an interactive Saju chart, compatibility view, and learning journey. Calculations run locally in the browser, birth data is not sent to an application server, and the experience is available in 11 languages.</p>
       <p>
         <a href="https://showmethesaju.com/en/"><strong>Try the live app →</strong></a>
@@ -65,7 +67,8 @@ Tony Works brings together the products I design, develop, publish, and maintain
 | --- | --- |
 | Backend | Java, Spring, REST APIs |
 | Games | Unity, C# |
-| Web | TypeScript, Astro, JavaScript, HTML, CSS |
+| Web | JavaScript, HTML, CSS |
+| AI | Claude, Codex |
 | Data | MySQL, Oracle, MongoDB, Redis |
 | Platform | AWS, Docker, Linux, Git, Jenkins, GitLab CI/CD |
 
@@ -75,8 +78,8 @@ I have **6+ years of backend and infrastructure experience**, and I now apply th
 
 - **Biztech-I** — Backend & Infrastructure Engineer (Sep 2023–Present)
 - **Kudo Communications** — Backend & Infrastructure Engineer (Jan 2020–Sep 2023)
-- Certifications: **AWS Solutions Architect – Associate**, **SQLD**, **Engineer Information Processing**
-- Languages: Korean · English · Chinese
+- Certifications: **AWS Solutions Architect – Associate**, **SQLD**, **Engineer Information Processing**, **TOEIC 965**
+- Languages: Korean (**Fluent**) · English (**Fluent**) · Chinese (**Intermediate**)
 
 ## A little more about me
 
